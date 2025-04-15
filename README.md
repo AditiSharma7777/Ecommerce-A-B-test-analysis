@@ -1,4 +1,4 @@
-# Ecommerce-A-B-test-analysis
+# Ecommerce-A/B-test-analysis
 This project focuses on analyzing A/B test results for an e-commerce website to determine whether a new webpage design improves conversion rates compared to the old one.
 
 ##  Objective
